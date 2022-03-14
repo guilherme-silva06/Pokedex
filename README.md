@@ -1,3 +1,5 @@
+# Pokedex
+
 This is a project that uses HTML, CSS, and Javascript to create a small pokedex (a pokemon wiki), aiming for responsiveness, a beautiful look and a clean code.
 
 This project was created with the knowledge obtained from "mapadev-week", a Brazilian online programming event where different parts of a web application are covered.
